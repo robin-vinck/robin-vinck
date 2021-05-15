@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robin-vinck
-- 👀 I’m interested in Angular development, serverless (AWS, Google Cloud), GrapQL
+- 👀 I’m interested in Angular development, serverless (AWS, Google Cloud), GraphQL
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: robin@vinckbusiness.com
